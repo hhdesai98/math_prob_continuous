@@ -1,7 +1,7 @@
 # Mathematical Probability II
 Course Materials for University of Washington Stat 395, Mathematical Probability II
 
-This repo contains my prepared lectures notes for Stat 395, as taught in Summer 2022 and Summer 2023.
+This repo contains my prepared lectures notes for Stat 395, as taught by me in Summer 2022 and Summer 2023.
 
 Course Topics:
 
